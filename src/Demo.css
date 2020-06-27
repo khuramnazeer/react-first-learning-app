@@ -1,0 +1,15 @@
+.main img{
+    width: 200px; height:  200px;
+}
+.main h1{
+    
+    text-align: center;
+}
+@import url(`https://fonts.googleapis.com/css2?family=Pangolin`);
+.main{
+   
+   font-family: 'Pangolin', cursive;
+   text-align: center;
+   background-color: #8FBC8F;
+
+}
